@@ -1,0 +1,1049 @@
+// # in bioconductor, ### follow with no check
+#abadata
+#adductdata
+###
+#affydata
+#airway
+#all ALL
+#aneufinderdata AneuFinderData
+#arrmdata ARRmData
+#biscuiteerdata biscuiteerData
+#bladderbatch bladderbatch
+#breakpointrdata breakpointRdata
+#breastcancervdx breastCancerVDX
+#bsgenome.celegans.ucsc.ce2 BSgenome.Celegans.UCSC.ce2
+#bsgenome.drerio.ucsc.danrer7 BSgenome.Drerio.UCSC.danRer7
+#bsgenome.ecoli.ncbi.20080805 BSgenome.Ecoli.NCBI.20080805 
+#bsgenome.hsapiens.ucsc.hg18 BSgenome.Hsapiens.UCSC.hg18
+#bsgenome.hsapiens.ucsc.hg19 BSgenome.Hsapiens.UCSC.hg19
+#bsgenome.hsapiens.ucsc.hg38 BSgenome.Hsapiens.UCSC.hg38
+#bsgenome.mmusculus.ucsc.mm10 BSgenome.Mmusculus.UCSC.mm10
+#bsgenome.mmusculus.ucsc.mm9 BSgenome.Mmusculus.UCSC.mm9
+python generate_pkgbuild_for_r.py  --maintainer "Guoyi Zhang" --email "guoyizhang at malacology dot net" --maintainer-github starsareintherose --cran-mirror https://cran.ma.imperial.ac.uk/ --skip --rpkgnames CCP ccTensor CDFt cgdsr changepoint checkmate chemometrics chk
+#ccdata ccdata
+#celldex celldex
+#champdata ChAMPdata
+#chic.data ChIC.data
+#chipenrich.data chipenrich.data
+#chipxpressdata ChIPXpressData
+#chromhmmdata chromhmmData
+#chromstardata chromstaRData
+chron
+circlize
+circular
+ckmeans.1d.dp
+clisymbols
+clue
+clustercrit
+clusterr
+clusterrepro
+clustersim
+clustree
+clustvarsel
+clvalid
+#cmap cmapR
+#cmap2data cMap2data
+cobs
+coda
+codedepends
+#cohcapanno COHCAPanno
+coin
+colorramps
+colorspace
+colortools
+colourpicker
+combinat
+combinepvalue
+compositions
+compquadform
+concaveman
+condformat
+config
+conicfit
+contrast
+coop
+copula
+#copyhelper CopyhelpeR
+corncob
+corpcor
+corrgram
+corrplot
+#cosmic.67 COSMIC.67
+covr
+cowplot
+cp4p
+cpgassoc
+cplm
+cpp11
+crmn
+cubature
+#curatedtcgadata curatedTCGAData
+cytometree
+#dapardata DAPARdata
+data.table
+data.tree
+dbscan
+ddpcr
+ddrtree
+deconstructsigs
+delaporte
+deldir
+dendextend
+densityclust
+depmixs4
+deriv
+desctools
+desolve
+devtools
+#dexmadata DExMAdata
+dgof
+diagram
+diagrammer
+dichromat
+diffcorr
+diffr
+diffusr
+diptest
+dirichletreg
+dirmult
+discriminer
+distances
+distr
+distrex
+dml
+dmt
+dmwr2
+dnet
+doby
+docopt
+#do.db DO.db
+doparallel
+dorng
+#dorothea dorothea
+dosnow
+downloader
+dplr
+dqrng
+drawer
+drawr
+drc
+drimpute
+drtmle
+#drugvsdiseasedata DrugVsDiseasedata
+dt
+dtangle
+dtplyr
+dtw
+dunn.test
+dynamictreecut
+e1071
+earth
+#easierdata easierData
+easypubmed
+echarts4r
+ecp
+ecume
+effsize
+egg
+#egseadata EGSEAdata
+einsum
+elasticnet
+elitism
+ellipse
+#elmer.data ELMER.data
+emdbook
+emdist
+emmeans
+emt
+energy
+enrichr
+#ensdb.hsapiens.v75 EnsDb.Hsapiens.v75
+#ensdb.hsapiens.v86 EnsDb.Hsapiens.v86
+ensurer
+entropy
+entropyexplorer
+envipat
+envstats
+epir
+eulerr
+eva
+evd
+evmix
+#ewcedata ewceData
+excelr
+expm
+extdist
+extradistr
+extremes
+#faahko faahKO
+factoextra
+factominer
+fastcluster
+fastdummies
+fastica
+fastmatch
+fbasics
+fda
+#fdb.infiniummethylation.hg19 FDb.InfiniumMethylation.hg19
+fdrtool
+feather
+feature
+ff
+ffbase
+ffield
+fftw
+fftwtools
+fgarch
+fields
+filehash
+filematrix
+#fis FIs
+#fission fission
+fitdistrplus
+flashclust
+flexclust
+flexdashboard
+flexmix
+flextable
+#flowsorted.blood.450k FlowSorted.Blood.450k
+fme
+fmsb
+fnn
+fontawesome
+forcats
+foreach
+forecast
+forestplot
+formattable
+formula
+formula.tools
+fpc
+freqprof
+fs
+fselector
+fst
+furrr
+future
+future.apply
+ga
+gamlss
+gap
+gbm
+#gcspikelite gcspikelite
+gdata
+geepack
+genalg
+#genelendatabase geneLenDataBase
+genenet
+genetics
+genkern
+genlasso
+genlib
+#genomicstate GenomicState
+genomictools
+genomictools.filehandler
+geometry
+getopt
+getoptlong
+getpass
+gfa
+ggalluvial
+ggally
+ggalt
+gganimate
+ggbeeswarm
+ggcorrplot
+ggdendro
+ggextra
+ggfittext
+ggforce
+ggfortify
+ggfun
+gghalves
+gghighlight
+ggiraph
+ggm
+ggmcmc
+ggnetwork
+ggnewscale
+ggplot2
+ggplotify
+ggplot.multistats
+ggpmisc
+ggpointdensity
+ggprism
+ggpubr
+ggraph
+ggrastr
+ggrepel
+ggridges
+ggsci
+ggseqlogo
+ggside
+ggsignif
+ggstar
+ggtext
+ggthemes
+ggvis
+ggwordcloud
+gh
+git2r
+glasso
+glm2
+glmmtmb
+glmnet
+glmpca
+globaloptions
+gmodels
+gmp
+#go.db GO.db
+golem
+googleauthr
+googlecloudstorager
+googlevis
+goric
+gplots
+gprofiler
+gprofiler2
+gptk
+graddescent
+grain
+grbase
+gridbase
+gridextra
+gridsvg
+grimport
+grr
+gsa
+gsl
+gsmoothr
+gss
+gstat
+gsubfn
+#gsvadata GSVAdata
+gtable
+gtools
+gunifrac
+gwasexacthw
+#h5vcdata h5vcData
+haplo.stats
+hardyweinberg
+harmonicmeanp
+hash
+heatmap3
+heatmaply
+hexbin
+hgnchelper
+#hgu133a2.db hgu133a2.db
+#hgu133a.db hgu133a.db
+#hgu133plus2.db hgu133plus2.db
+#hgu95av2.db hgu95av2.db
+hh
+hiddenmarkov
+highcharter
+hiver
+hmisc
+homologene
+#homo.sapiens Homo.sapiens
+howmany
+#hsmmsinglecell HSMMSingleCell
+htm2txt
+htmltools
+htmlutils
+htmlwidgets
+htscluster
+httpuv
+huge
+hwriter
+ic10
+icluster
+ics
+icsnp
+idpmisc
+idr
+igraph
+#illumina450probevariants.db Illumina450ProbeVariants.db
+#illuminahumanmethylation450kanno.ilmn12.hg19 IlluminaHumanMethylation450kanno.ilmn12.hg19
+#illuminahumanmethylation450kmanifest IlluminaHumanMethylation450kmanifest
+#illuminahumanmethylationepicanno.ilm10b2.hg19 IlluminaHumanMethylationEPICanno.ilm10b2.hg19
+#illuminahumanmethylationepicanno.ilm10b4.hg19 IlluminaHumanMethylationEPICanno.ilm10b4.hg19
+#illuminahumanmethylationepicmanifest IlluminaHumanMethylationEPICmanifestmager
+imp4p
+import
+imputelcmd
+ineq
+infotheo
+intergraph
+intervals
+intrinsicdimension
+invariantcausalprediction
+ipred
+irdisplay
+irkernel
+irlba
+irr
+isa2
+ismev
+iso
+isogene
+isva
+#italicsdata ITALICSData
+iterators
+jackstraw
+jade
+#jaspar2018 JASPAR2018
+jpeg
+kableextra
+#keggandmetacoredzpathwaysgeo KEGGandMetacoreDzPathwaysGEO
+#keggdzpathwaysgeo KEGGdzPathwaysGEO
+keras
+kernlab
+kinship2
+kknn
+kmer
+kmlshape
+knitr
+knitrbootstrap
+knn.covertree
+#kodata KOdata
+kohonen
+kpmt
+kriging
+ks
+ksamples
+labeling
+laplacesdemon
+lars
+lasso2
+lassopv
+later
+latex2exp
+latticeextra
+lazyeval
+leaps
+leiden
+lgr
+liblinear
+lim
+limsolve
+linkcomm
+lme4
+lmertest
+lmtest
+locfdr
+locfit
+log4r
+logger
+logging
+logicreg
+logistf
+logspline
+lokern
+longitudinal
+loose.rock
+#lowmacaannotation LowMACAAnnotation
+lpsolve
+lpsolveapi
+lsa
+lsd
+lsr
+lubridate
+#lumihumanall.db lumiHumanAll.db
+#lungcanceracvssccgeo LungCancerACvsSCCGEO
+#lymphoseqdb LymphoSeqDB
+#mafdb.1kgenomes.phase3.hs37d5 MafDb.1Kgenomes.phase3.hs37d5
+#mafdb.exac.r1.0.hs37d5 MafDb.ExAC.r1.0.nonTCGA.hs37d5
+#mafdb.gnomadex.r2.1.hs37d5 MafDb.gnomADex.r2.1.hs37d5
+magicaxis
+magick
+maldiquant
+mapplots
+maps
+maptools
+maptpx
+maptree
+markdown
+matching
+matchingr
+matlab
+matrixcalc
+matrixcorrelation
+matrixtests
+matrix.utils
+maxlik
+mbest
+mboost
+mcbiopi
+mcl
+mclust
+mcmcglmm
+mcmcpack
+mcmcprecision
+#mcseadata mCSEAdata
+mefa
+mess
+metacycle
+metafor
+metama
+metap
+#methylclockdata methylclockData
+metr
+mglm
+mgsz
+mhsmm
+mice
+microbenchmark
+miniui
+minpack.lm
+minqa
+#mirbase.db mirbase.db
+#mirbaseversions.db miRBaseVersions.db
+#mircompdata miRcompData
+#mirnatap.db miRNAtap.db
+missforest
+mixsmsn
+mixtools
+mkmisc
+mlbench
+mlmetrics
+mlr
+mltools
+mnormt
+modeest
+modelmetrics
+moments
+mpinet
+mpm
+mpmi
+mppa
+mrfdepth
+mrmre
+msgps
+#msigdb msigdb
+msigdbr
+msm
+multcomp
+multipanelfigure
+mumin
+#mus.musculus Mus.musculus
+mustat
+mvoutlier
+mvtnorm
+nabor
+naivebayes
+naturalsort
+nbclust
+nbpseq
+ncdf4
+neo4r
+netrep
+network
+networkd3
+nhpoisson
+nleqslv
+nloptr
+nls2
+nmf
+nmi
+nnlasso
+nnls
+nntensor
+nor1mix
+norm
+nortest
+nozzle.r1
+nsga2r
+nsprcomp
+numbers
+numderiv
+#nxtirfdata NxtIRFdata 
+objectproperties
+#omicspcadata OMICsPCAdata
+ontologyindex
+ontologyplot
+opencpu
+openxlsx
+#optimalflowdata optimalFlowData
+optimx
+optparse
+orcme
+#org.bt.eg.db org.Bt.eg.db
+#org.dm.eg.db org.Dm.eg.db
+#org.dr.eg.db org.Dr.eg.db 
+#org.hs.eg.db org.Hs.eg.db
+orgmassspecr
+#org.mm.eg.db org.Mm.eg.db
+#org.rn.eg.db org.Rn.eg.db
+#org.sc.sgd.db 	org.Sc.sgd.db
+oriclust
+origami
+orqa
+osfr
+outliers
+paireddata
+pairsd3
+pals
+pamr
+pander
+paralleldist
+parallellogger
+paramhelpers
+parmigene
+partykit
+#pasilla pasilla
+pastecs
+patchwork
+pbapply
+pbkrtest
+pbmcapply
+pcalg
+pcapp
+#pcxndata pcxnData
+pdftools
+pdist
+#pd.mapping50k.xba240 pd.mapping50k.xba240
+penalized
+peptides
+performanceanalytics
+permute
+#pfam.db PFAM.db
+phangorn
+#phastcons100way.ucsc.hg19 phastCons100way.UCSC.hg19
+#phastcons100way.ucsc.hg38 phastCons100way.UCSC.hg38
+phater
+pheatmap
+philentropy
+phyclust
+phylobase
+picante
+pingr
+pixmap
+plot3d
+plotly
+plotrix
+plotroc
+pls
+plsgenomics
+plsvarsel
+plyr
+pma
+pmcmrplus
+poibin
+poiclaclu
+poilog
+polychrome
+polylabelr
+polynomf
+#polyphen.hsapiens.dbsnp131 PolyPhen.Hsapiens.dbSNP131
+powerlaw
+ppclust
+ppcor
+prabclus
+pracma
+praznik
+precrec
+preseqr
+prettydoc
+primme
+princurve
+proc
+processx
+prodlim
+promises
+propr
+protolite
+protr
+protviz
+proxy
+proxyc
+prroc
+pryr
+pscl
+psych
+ptw
+pvclust
+pwr
+#pwrewas.data pwrEWAS.data
+qdaptools
+qlcmatrix
+qpcr
+qpdf
+qqman
+qs
+qtl
+quadprog
+qualv
+quantmod
+quantreg
+r2html
+r2jags
+radiant.data
+rafalib
+randomcolor
+randomforest
+randtests
+ranger
+rann
+rapiclient
+rapportools
+rarpack
+raster
+rbokeh
+r.cache
+rcapture
+rcdk
+#rcellminerdata rcellminerData
+rcircos
+rclipboard
+rcmdrmisc
+rcolorbrewer
+rcppalgos
+rcppannoy
+rcpparmadillo
+rcppdist
+rcppeigen
+rcpphnsw
+rcppnumerical
+rcppparallel
+rcppprogress
+rcpproll
+rcppthread
+rdpack
+reactable
+#reactome.db reactome.db
+readbitmap
+reader
+readr
+readxl
+rebus
+recordlinkage
+#reffreeewas RefFreeEWAS CRAN
+refmanager
+relations
+reldist
+relimp
+rentrez
+reordercluster
+repmis
+repo
+reportroc
+reshape
+reshape2
+reticulate
+rfast
+rfoc
+#rgenometracksdata rGenomeTracksData
+rgeos
+rgl
+#rgmqllib RGMQLlib
+rhandsontable
+#rhdf5client rhdf5client
+rhpcblasctl
+rintrojs
+rio
+rismed
+#ritandata RITANdata
+rjags
+rjava
+rjsonio
+rlab
+rlabkey
+#rlhub RLHub
+rlist
+rmagic
+rmallow
+rmarkdown
+r.matlab
+rmdformats
+rmeta
+r.methodss3
+#rmir.hs.mirna RmiR.Hs.miRNA
+rmisc
+rmixmod
+rmpfr
+rmpi
+rms
+rmsnumpress
+rmtstat
+rmysql
+#rnaseqsamplesizedata RnaSeqSampleSizeData
+#rnbeads.hg19 RnBeads.hg19
+rnomni
+robust
+robustbase
+robustrankaggreg
+rocit
+rocr
+r.oo
+rook
+rootsolve
+roptim
+roxygen2
+rpart.plot
+rpmm
+rpostgresql
+rpref
+rrcov
+rsample
+rslurm
+rsm
+rsnns
+rsnps
+rsolnp
+rspectra
+rsq
+rstan
+rstantools
+rstatix
+rstudioapi
+rsvd
+rsvg
+#rsvgtipsdevice RSVGTipsDevice
+rtensor
+rtriangle
+rtsne
+runit
+r.utils
+ruv
+#ruvnormalizedata RUVnormalizeData
+rvest
+s4vd
+sampling
+sampsurf
+sandwich
+sass
+saver
+#sbgnview.data SBGNview.data
+scales
+scam
+#scanmirdata scanMiRData
+#scatedata SCATEData
+scattermore
+scatterpie
+scatterplot3d
+scico
+scrime
+#scrnaseq scRNAseq
+sctransform
+segmented
+sendmailr
+#seq2pathway.data seq2pathway.data
+#seqcna.annot seqCNA.annot 
+seqinr
+seqmagick
+seqminer
+seriation
+servr
+#sesamedata sesameData
+sessioninfo
+setrng
+settings
+seurat
+seuratobject
+sf
+sfsmisc
+sgeostat
+shadowtext
+shiny
+shinyace
+shinyalert
+shinybs
+shinybusy
+shinycssloaders
+shinycustomloader
+shinydashboard
+shinydashboardplus
+shinyfeedback
+shinyfiles
+shinyheatmaply
+shinyhelper
+shinyjqui
+shinyjs
+shinymatrix
+shinypanel
+shinyscreenshot
+shinythemes
+shinytoastr
+shinytree
+shinywidgets
+#sift.hsapiens.dbsnp137 SIFT.Hsapiens.dbSNP137 
+sigclust
+signal
+#simpintlists simpIntLists
+simplecache
+sjmisc
+skmeans
+slam
+sm
+smartsva
+smatr
+smoother
+smoothie
+smoothwin
+smurf
+sn
+sna
+#snageedata SNAGEEdata
+snowballc
+snowfall
+#snplocs.hsapiens.dbsnp144.grch37 SNPlocs.Hsapiens.dbSNP144.GRCh37
+#snplocs.hsapiens.dbsnp150.grch38 SNPlocs.Hsapiens.dbSNP150.GRCh38
+softimpute
+som
+sombrero
+soniclength
+sortable
+sp
+sparql
+sparsebn
+sparsebnutils
+sparseinv
+sparsem
+sparsemvn
+sparsepca
+spatest
+spatialextremes
+spatialtools
+spatstat.core
+spatstat.geom
+speaq
+speedglm
+splancs
+splines2
+splitstackshape
+spp
+spscomps
+spsutil
+sqldf
+squarem
+squash
+stabs
+stanheaders
+statmod
+#stemhypoxia stemHypoxia
+stopwords
+strawr
+stringdist
+strucchange
+styler
+subspace
+summarytools
+superheat
+suppdists
+survey
+survivalroc
+survivalsvm
+survminer
+svd
+svdialogs
+svglite
+svgpanzoom
+svmisc
+swamp
+#systempiperdata systemPipeRdata
+tagcloud
+tarifx
+#tbx20bamsubset TBX20BamSubset
+#tcgabiolinksgui.data TCGAbiolinksGUI.data
+tcltk2
+teachingdemos
+tensor
+tensorflow
+#tenxpbmcdata TENxPBMCData 
+tester
+testthat
+text2vec
+textclean
+textstem
+tfmpvalue
+threejs
+tictoc
+tidybayes
+tidygraph
+tidyr
+tidytext
+tidytree
+tidyverse
+tiff
+tiledb
+timsac
+tippy
+tkrplot
+tm
+tmb
+tmvtnorm
+tokenizers
+topicmodels
+tractor.base
+transport
+treemap
+truncdist
+truncnorm
+trust
+tseries
+tsne
+tsp
+ttr
+#txdb.celegans.ucsc.ce6.ensgene TxDb.Celegans.UCSC.ce6.ensGene
+#txdb.dmelanogaster.ucsc.dm3.ensgene TxDb.Dmelanogaster.UCSC.dm3.ensGene
+#txdb.dmelanogaster.ucsc.dm6.ensgene TxDb.Dmelanogaster.UCSC.dm6.ensGene
+#txdb.hsapiens.ucsc.hg18.knowngene TxDb.Hsapiens.UCSC.hg18.knownGene
+#txdb.hsapiens.ucsc.hg19.knowngene TxDb.Hsapiens.UCSC.hg19.knownGene
+#txdb.hsapiens.ucsc.hg38.knowngene TxDb.Hsapiens.UCSC.hg38.knownGene
+#txdb.mmusculus.ucsc.mm10.knowngene TxDb.Mmusculus.UCSC.mm10.knownGene
+#txdb.mmusculus.ucsc.mm9.knowngene TxDb.Mmusculus.UCSC.mm9.knownGene
+#txdb.rnorvegicus.ucsc.rn4.ensgene TxDb.Rnorvegicus.UCSC.rn4.ensGene
+uchardet
+umap
+uniqtag
+upsetr
+usethis
+uuid
+uwot
+v8
+valr
+vam
+varfrompdb
+varhandle
+varselrf
+vbsr
+vcfr
+vegan
+venn
+venndiagram
+verification
+vgam
+vim
+vioplot
+vipor
+viridis
+viridislite
+visnetwork
+vroom
+waffle
+waiter
+waveslim
+wavethresh
+webchem
+webshot
+wesanderson
+wgcna
+wheatmap
+whisker
+wordcloud
+wordcloud2
+writexl
+writexls
+xfun
+xgboost
+xlsx
+xml2r
+xtable
+#xtrasnplocs.hsapiens.dbsnp144.grch37 XtraSNPlocs.Hsapiens.dbSNP144.GRCh37
+#yeastcc yeastCC
+#yeastexpdata yeastExpData
+yulab.utils
+zcompositions
+zeallot
+zip
+zoo
