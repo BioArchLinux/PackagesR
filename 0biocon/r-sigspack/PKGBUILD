@@ -11,7 +11,7 @@ url="https://bioconductor.org/packages/${_pkgname}"
 license=('GPL')
 depends=(
   r
-  r-guadprog
+  r-quadprog
   r-biobase
   r-bsgenome
   r-variantannotation
