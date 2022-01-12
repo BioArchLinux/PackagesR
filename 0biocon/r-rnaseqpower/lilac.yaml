@@ -1,0 +1,7 @@
+build_prefix: extra-x86_64
+maintainers:
+- github: starsareintherose
+update_on:
+- regex: <tr class="row_even"><td>Version</td><td>(\d+.\d+.\d+)</td></tr>
+  source: regex
+  url: https://bioconductor.org/packages/RNASeqPower
